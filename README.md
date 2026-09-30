@@ -220,4 +220,4 @@ HyperSnap is available as a full free version with all features and updates incl
 Start capturing your screen with HyperSnap today! Download now and unlock the full potential of your screen capturing needs.
 
 ---
-**Last updated:** 2026-09-30 08:20:25 UTC
+**Last updated:** 2026-09-30 15:48:04 UTC
